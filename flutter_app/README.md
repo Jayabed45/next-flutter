@@ -142,7 +142,7 @@ The app requires the following permissions:
 2. **Image Not Loading**
    - Check image URL format
    - Verify server is serving static files
-   - Check CORS configuration
+   - Check CORS configuration 
 
 3. **Upload Fails**
    - Check file size limits
@@ -195,3 +195,5 @@ flutter build ios --release
 ## License
 
 MIT License - see main README for details 
+
+- Deverloper: Del Rosario, Jay Yhansey A. BSIT Section D
