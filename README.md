@@ -202,4 +202,4 @@ The image schema includes:
 
 MIT License - see LICENSE file for details # next-flutter
 
-## Developed By: Del Rosario, Jay Yhansey A. BSIT Seciont D
+## Developed By: Del Rosario, Jay Yhansey A. BSIT Section D
